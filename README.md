@@ -2,7 +2,7 @@
 
 Analysis of 26,715 pharmacy prescription records to find which medicines are dispensed the most and which medicine classes cost the most.
 
-**Data:** Kaggle hospital management dataset (add the dataset link here). Patient details were not used.
+**Data:** Kaggle hospital management dataset . Patient details were not used.
 
 **Tools:** Python, Pandas, Matplotlib
 
